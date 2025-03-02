@@ -1,8 +1,8 @@
 import requests
 import streamlit as st
 
-API_URL = st.secrets.BACKEND.API_URL
-
+API_URL = st.secrets.API_URL
+st.write(API_URL) # Just to test
 # Define function to send user's question to API endpoint to get response from AI
 def get_api_response(question, session_id):
     headers = {
