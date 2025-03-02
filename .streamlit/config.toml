@@ -1,2 +1,7 @@
 [client]
+<<<<<<< HEAD
 showSidebarNavigation =  false
+=======
+showSidebarNavigation = false
+toolbarMode = "minimal"
+>>>>>>> 17f2c9434868171705178fa52a99635f6d1d298f

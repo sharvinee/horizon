@@ -1,0 +1,20 @@
+# Streamlit
+.streamlit/secrets.toml
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# Environment and credentials files
+*.env
+
+# Databases
+*.db
+
+# Others
+backend/
+api_main.py
+setup_database.py
