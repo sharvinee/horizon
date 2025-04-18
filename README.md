@@ -1,1 +1,1 @@
-Log on to https://horizon-clinic.streamlit.app/ to test out the app.
+Log on to https://horizon.drsharvinee.com/ to test out the app.
